@@ -1,0 +1,4 @@
+Cara belajar yang efektif untuk programmer
+
+- Baca dokumentasi
+- Praktik
