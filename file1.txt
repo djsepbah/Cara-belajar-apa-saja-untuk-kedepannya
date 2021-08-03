@@ -1,4 +1,5 @@
 Cara belajar yang efektif untuk programmer
 
+- Cari platfrom pembelajaran yang tepat
 - Baca dokumentasi
 - Praktik
